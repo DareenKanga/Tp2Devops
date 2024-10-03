@@ -17,7 +17,7 @@ A définir
 
 ### Installation
 
-Voici les étapes  à suivre pour avoir un environnement 
+Voici les étapes  à suivre pour avoir un environnement by Kanga :
 
 
 ```
